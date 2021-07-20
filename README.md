@@ -8,5 +8,5 @@ https://www.udacity.com/course/deep-learning-nanodegree--nd101
 Data Analyst Nanodegree Certificate
 
 <p align="center">
-  <img width="779" height="600" src="https://github.com/FercenBulut/Udacity-Machine-Learning-Engineer-Nanodegree/blob/main/Udacity_Machine_Learning_Engineer_Certificate.png">
+  <img width="779" height="600" src="https://github.com/FercenBulut/Udacity-Deep-Learning-Nanodegree/blob/main/Udacity_Deep_Learning_Certificate.png">
 </p>
